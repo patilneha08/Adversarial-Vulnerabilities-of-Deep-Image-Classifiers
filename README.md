@@ -1,4 +1,3 @@
-# Adversarial-Vulnerabilities-of-Deep-Image-Classifiers
 # Adversarial Vulnerabilities of Deep Image Classifiers
 
 This repository presents the implementation and results of adversarial attacks on pre-trained deep image classification models as part of **Deep Learning Project 3 (Spring 2025)**. The goal was to design constrained adversarial attacks that degrade the performance of ResNet-34 on the ImageNet-1K subset and evaluate their transferability to another model, DenseNet-121.
